@@ -9,4 +9,12 @@ int main () {
 	cin >> gr;
 	cout << "masukkan jam pegawai : ";
 	cin >> jk;
+	
+	lembur= jm - 30;
+ 	gr= (lembur*1,5=40)+gt;
+ 	pajak=gt*0.5;
+	gt=gt-pajak;
+	
+	cout << "gaji  bersih pegawai : ";
+
 }
